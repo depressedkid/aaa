@@ -1,0 +1,12 @@
+discord
+bs4
+pillow
+numpy==1.19.3
+youtube_dl
+praw
+gtts
+google-search
+wikipedia
+PyNaCl
+requests
+aiohttp
